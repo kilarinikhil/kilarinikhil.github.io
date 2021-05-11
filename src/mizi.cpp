@@ -57,8 +57,8 @@ string html_footer = "";
 struct Page{
     string title;
     int partsCount;
-    string partName[32];
-    string partDesc[32];
+    string partName[300];
+    string partDesc[200];
 };
 
 Page * createPage(string title){
