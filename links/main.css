@@ -8,29 +8,29 @@
 @font-face { font-family: 'input_mono_regular'; src: url('../media/fonts/input_mono_regular.ttf') format('truetype'); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'input_mono_medium'; src: url('../media/fonts/input_mono_medium.ttf') format('truetype'); font-weight: normal; font-style: normal; }
 
-html { background: lightgrey; }
+html { background: #151515; }
 body { 
-  background:#fff; color:#0a0708; 
+  background:black; color:white; 
   font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial; font-size:18px;  
-  overflow-x: hidden; padding:45px 90px; max-width: 600px;  
+  overflow-x: hidden; padding:45px 90px; max-width: 720px;  
   margin-left: auto; margin-right:auto;}
-body hr { border: 1px solid black; }
+body hr { border: 1px solid white; }
 body header a#logo { margin-top: -15px;display: block;width: 75px; margin-bottom:15px;}
-body header a#logo img { width:100%; }
+body header a#logo img { width:100%;background:white }
 body main img.capsule { width: 150px; }
 body main img.medium {max-width: 300px;}
 body main > * { max-width: 600px;}
-body main > h1 { font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial; font-size:45px; text-transform: capitalize; padding:30px 0px; line-height: 1;}
+body main > h1 { font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial; font-size:45px; text-transform: capitalize; padding:30px 0px; line-height: 1;color:#b5e853}
 body main h2#_ { font-size:30px;} /* Empty " " Part title */
-body h2 { font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial; font-size:30px; text-transform: capitalize; padding:30px 0px;}
+body h2 { font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial; font-size:30px; text-transform: capitalize; padding:30px 0px;color:#b5e853}
 body h3 { font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial; font-size:30px; text-transform: capitalize; padding:30px 0px;}
 body main h2#_ { font-size:30px; padding: 0px 0px;} /* Empty " " Part title */
 body main > img { width:100%; max-width: 600px; }
 body main ul { font-family: 'input_mono_regular'; font-size:14px; line-height: 20px }
 
-body main ul li a { text-decoration: underline; }
+body main ul li a { text-decoration: none;}
 body main ul li b { font-weight: bold }
-body main ul li:hover a { text-decoration: none; }
+body main ul li:hover a { text-decoration: underline; }
 body main { line-height: 28px; font-size:18px; }
 body main a { text-decoration: underline; }
 body main b { font-weight: bold; }
@@ -41,7 +41,7 @@ body main > p.quote { padding: 30px;font-size: 20px;font-style: italic; max-widt
 body main > ul.jump { columns:2; line-height: 20px}
 body main > ul.jump li { list-style-type: decimal-leading-zero; list-style-position: inside; text-transform: capitalize;}
 body main > ul.jump li::marker { color:#777; }
-body main > ul.jump li:hover {background:black; color:white; }
+body main > ul.jump li:hover {background:white; color:black; }
 body main a.button { font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial; background-color: #000000;border: none;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;}
 body main a.button:hover {background-color: #727272 !important;border: none;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;}
 body main a.button.patreon { background-color: #e75942; }
@@ -54,9 +54,9 @@ body main ul.gallery li h3 { font-family: "alte_haas_grotesk_regular", "Helvetic
 body main ul.gallery li h4 { font-family: "alte_haas_grotesk_bold", "Helvetica Neue", Helvetica, Arial; font-size:20px; text-transform: capitalize; }
 
 body main.home ul li a { text-transform: capitalize; text-decoration: none;}
-body main > ul.pagelist li:hover{background:black; color:white; }
+body main > ul.pagelist li:hover{background:white; color:black; text-decoration: underline}
 body main > ul.pagelist li::marker { color:#777; }
-body main > ul.pagelist li { list-style-type: decimal-leading-zero; list-style-position: inside; text-transform: capitalize;}
+body main > ul.pagelist li { list-style-type: decimal-leading-zero; list-style-position: inside; text-transform: capitalize;text-decoration: none}
 
 body footer { border-top: 1.5px solid black;padding-top: 30px;margin-bottom: 120px; max-width: 600px }
 body footer img {max-height: 30px; max-width:30px; margin-right: 10px;}
