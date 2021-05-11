@@ -1127,4 +1127,130 @@ One of the best books in the genre of Self Help!
 ★★★★★★★★
 - Comedy, Crime, Drama, Mystery, Thriller
 ## TV Series
+### 2021-05-08
+<b>Jujutsu Kaisen</b>
+★★★★★★★★
+- Animation, Action, Adventure, Fantasy, Thriller
+
+### 2021-05-07
+<b>The Office</b>
+★★★★★★★★★
+- Comedy
+
+### 2021-05-06
+<b>The Falcon and the Winter Soldier</b>
+★★★★★★★
+- Action, Adventure, Drama, Sci-Fi
+
+### 2021-03-29
+<b>Mirzapur</b>
+★★★★★★★★
+- Action, Crime, Drama, Thriller
+
+### 2021-03-02
+<b>WandaVision</b>
+★★★★★★★★
+- Action, Comedy, Drama, Fantasy, Sci-Fi
+
+### 2020-07-21
+<b>The Boys</b>
+★★★★★★★★
+- Action, Comedy, Crime, Sci-Fi
+
+### 2020-07-09
+<b>Dark</b>
+★★★★★★★★★
+- Crime, Drama, Mystery, Sci-Fi, Thriller
+
+### 2020-06-11
+<b>La casa de papel</b>
+★★★★★★★★
+- Action, Crime, Mystery, Thriller
+
+### 2020-05-09
+<b>The Witcher</b>
+★★★★★★★★★
+- Action, Adventure, Fantasy, Mystery
+
+<b>BoJack Horseman</b>
+★★★★★★★★★
+- Animation, Comedy, Drama
+
+<b>Peaky Blinders</b>
+★★★★★★★★★
+- Crime, Drama
+
+### 2020-04-06
+<b>Breaking Bad</b>
+★★★★★★★★
+- Crime, Drama, Thriller
+
+<b>Death Note: Desu nôto</b>
+★★★★★★★★★
+- Animation, Crime, Drama, Fantasy, Mystery, Thriller
+
+<b>The Mandalorian</b>
+★★★★★★★★★
+- Action, Adventure, Sci-Fi
+
+<b>Demon Slayer: Kimetsu No Yaiba</b>
+★★★★★★★★★
+- Animation, Action, Fantasy, Thriller
+
+<b>Sacred Games</b>
+★★★★★★★★★
+- Action, Crime, Drama, Thriller
+
+<b>Vikings: All His Angels</b>
+★★★★★★★★★★
+- Action, Adventure, Drama, History, Romance, War
+
+<b>Stranger Things</b>
+★★★★★★★★★
+- Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller
+
+<b>Shingeki no kyojin</b>
+★★★★★★★★★
+- Animation, Action, Adventure, Drama, Fantasy, Horror
+
+<b>Vikings</b>
+★★★★★★★★
+- Action, Adventure, Drama, History, Romance, War
+
+<b>Band of Brothers</b>
+★★★★★★★★★★
+- Action, Drama, History, War
+
+<b>Sherlock</b>
+★★★★★★★★★★
+- Crime, Drama, Mystery, Thriller
+
+### 2020-01-19
+<b>Game of Thrones</b>
+★★★★★★★★★
+- Action, Adventure, Drama, Fantasy
+
+<b>The Witcher: Of Banquets, Bastards and Burials</b>
+★★★★★★★★★★
+- Action, Adventure, Fantasy, Mystery
+
+<b>The Witcher: Betrayer Moon</b>
+★★★★★★★★★
+- Action, Adventure, Fantasy, Mystery
+
+<b>The Witcher: Four Marks</b>
+★★★★★★★★
+- Action, Adventure, Fantasy, Mystery
+
+<b>Rick and Morty</b>
+★★★★★★★★★
+- Animation, Adventure, Comedy, Sci-Fi
+
+<b>The Witcher: The End's Beginning</b>
+★★★★★★★★
+- Action, Adventure, Fantasy, Mystery
+
+<b>Chernobyl</b>
+★★★★★★★★
+- Drama, History, Thriller
 ## Anime
