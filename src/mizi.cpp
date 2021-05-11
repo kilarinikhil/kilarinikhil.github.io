@@ -51,7 +51,7 @@ string html_head(string text){
 }
 string html_header = "";
 // Portal to dashboard
-string html_home_header = "<header><a id='logo' href='../dashboard.html'><img src='../media/interface/logo.png' alt='AbstractXan' ></a></header>";
+string html_home_header = "<header><a id='logo' href='../dashboard.html'><img src='../media/interface/hello.gif' alt='AbstractXan' ></a></header>";
 string html_footer = "";
 
 struct Page{

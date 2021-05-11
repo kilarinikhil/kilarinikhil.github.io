@@ -8,15 +8,15 @@
 @font-face { font-family: 'input_mono_regular'; src: url('../media/fonts/input_mono_regular.ttf') format('truetype'); font-weight: normal; font-style: normal; }
 @font-face { font-family: 'input_mono_medium'; src: url('../media/fonts/input_mono_medium.ttf') format('truetype'); font-weight: normal; font-style: normal; }
 
-html { background: #151515; }
+html { background: #1d1f20; }
 body { 
-  background:black; color:white; 
+  background:#1d1f20; color:white; 
   font-family: "alte_haas_grotesk_regular", "Helvetica Neue", Helvetica, Arial; font-size:18px;  
   overflow-x: hidden; padding:45px 90px; max-width: 720px;  
   margin-left: auto; margin-right:auto;}
 body hr { border: 1px solid white; }
 body header a#logo { margin-top: -15px;display: block;width: 75px; margin-bottom:15px;}
-body header a#logo img { width:100%;background:white }
+body header a#logo img { width:100%;background: #1d1f20}
 body main img.capsule { width: 150px; }
 body main img.medium {max-width: 300px;}
 body main > * { max-width: 600px;}
