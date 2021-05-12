@@ -95,7 +95,22 @@ body pre.code{
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
 }
-
+/* highlight movies */
+body mov.matrix{
+  margin-top: 0px;
+  display: block;
+  font-family: 'input_mono_regular'; 
+  font-size:18px; 
+  line-height: 1;
+  color: #00ff00;
+  background-color: #1d1f20;
+  padding: 0px 0px 10px 15px;
+  border: 4px #00ff00;
+  border-style: dashed solid;
+  white-space: pre;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
 
 /*Details summary*/
 details {
